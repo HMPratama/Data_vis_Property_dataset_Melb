@@ -2,7 +2,6 @@
 ![1_7LC9Or1rqMHMNe_Tc1Yt6A](https://github.com/HMPratama/Data_vis_Property_dataset_Melb/assets/160452771/6d529123-917c-49a8-9498-fdfbe81e1c5d)
 
 
-As of my last update in January 2022, I don't have access to specific datasets like "Melb_data.csv." However, I can provide you with a general description of what you might find in a dataset like this, based on common features found in real estate or property datasets.
 
 Here's what you might typically expect to find in a dataset like "Melb_data.csv":
 
